@@ -1,0 +1,14 @@
+---
+applications:
+  .:
+    name: lyndasub
+    framework:
+      name: php
+      info:
+        mem: 512M
+        description: PHP Application
+        exec: 
+    infra: eu-aws
+    url: lyndasub.eu01.aws.af.cm
+    mem: 512M
+    instances: 1

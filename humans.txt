@@ -1,0 +1,13 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+    Mohamed A. Shehata -- Full-Stack Developer -- @elza3ym
+    Hashem Qolami -- Back-end Developer -- @HashemQolami
+    Ali Abdolahi -- UI Designer and Developer -- @a_abdolahi
+
+# TECHNOLOGY COLOPHON
+
+    PHP
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr
